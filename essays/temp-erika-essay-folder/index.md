@@ -27,7 +27,7 @@ This is sample content. Replace it with your essay, images about your topic, and
   image-path="images/timber.jpg"
   image-width="55%"
   alt-text="A large pile of timber."
-  caption="A large pile of timber. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
+  caption="A large pile of timber. [Ceiling Supply Company](https://www.ceilingsupplycompany.com/cdn/shop/articles/timber.jpg?v=1707045940&width=845), open access."
 %}
 
 
