@@ -21,7 +21,7 @@ tags:
 
 # My Essay Topic
 
-This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. My name is Erika.
+Before the Industrial Revolution and the increase use of coal, wood was the primary source of energy for many different societies. Wood was used for making fires and for building. Wood from oak trees were best for building with timber. 
 
 {% include images/figure.html
   image-path="images/timber.jpg"
