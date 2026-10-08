@@ -1,5 +1,5 @@
 ---
-title: My Essay Topic
+title: Wood in Colonial America
 layout: base
 author: Erika Costales
 date: 2026-01-01
