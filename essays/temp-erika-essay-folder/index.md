@@ -32,7 +32,7 @@ From their account, they said that she was walking around in the woods by hersel
 {% include images/figure-wrap.html
   image-path="images/burning-tree.png"
   image-position="right"
-  image-width="45%"
+  image-width="50%"
   alt-text="A single tree burning."
   caption="A tree burning. [Dreamstime](https://www.dreamstime.com/burning-tree-misty-forest-single-red-leaves-its-base-reflecting-still-pool-water-image334263188), open access."
   text=chile_nm_text
