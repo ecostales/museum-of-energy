@@ -23,9 +23,10 @@ tags:
 
 The town of Salem was most well known for one thing: witches. There were many individuals that were condemned but their names are not remembered. There was one though, that everyone knew about. Sylvia Jones was the most famous witch from Salem. She was the most dangerous out of them all.  
 
-{% include images/figure.html
+{% include images/figure-wrap.html
   image-path="images/burning-tree.png"
-  image-width="55%"
+  image-position="right"
+  image-width="45%"
   alt-text="A single tree burning."
   caption="A tree burning. [Dreamstime](https://www.dreamstime.com/burning-tree-misty-forest-single-red-leaves-its-base-reflecting-still-pool-water-image334263188), open access."
 %}
