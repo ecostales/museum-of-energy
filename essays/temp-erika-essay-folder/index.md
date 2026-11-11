@@ -42,6 +42,32 @@ All three of them looked up from the ground to find her gone. She was nowhere to
 
 She was still in there. She created this to prevent them from chasing her. The wood of the trees were helping her. She was able to control them. 
 
+
+The town searched for her the entire night. They checked every house in the town and searched the woods the best they could, but no one could find her. She hid in the night within the shadows. They were all scattered searching for her. One man, named Henry, was searching the perimeter around the town. He didn't hold a torch. He wanted to be able to sneak up on the witch. The torch would give away his location. 
+
+He walked slowly. The grass beneath his feet crunched softly, perfect for not drawing too much attention. He walked the same path over and over again all night until he saw a lone figure up ahead. A woman walked out of the woods. Her skirt scratched against the grass. The jogged towards the town. Henry quickly followed her. He crouched slightly as he ran. Even though he wanted to reach her quickly, he didn't want her to see him before he was able to get close. Luckily, she was focused on something ahead of her and didn't see him at all. 
+
+{% capture chile_nm_text %}
+He ran up behind her and grabbed a fistful of her hair. She yelped as he pulled her back. She struggled against his grip but he held her hair tightly. 
+
+"I caught the witch!" he shouted into the night. He walked her towards the middle of town while shouting it over and over. His call brought everyone back into town. Soon enough, everyone formed a crowd around Henry and Sylvia. Their torches lit up all of them. It burned against their skin.
+
+"Let's kill her at dawn!" the crowd shouted. They chanted it.
+
+Over the course of the next hour, they kept her chained up as they set up the large wooden stake. Sylvia watched as they set up her death. The light then reached over the horizon. The sun's glow casted over the town. Henry and another man grabbed Sylvia and dragged her to the stake. She didn't struggle, she just let them take her. She stared at the ground as they tied her to the wooden pole. Henry was giving a speech to the town. Sylvia guessed it was something about eliminating evil from the town but it was muffled in her ears. She quietly waited for her end. 
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/burning-at-the-stake.png"
+  image-position="left"
+  image-width="50%"
+  alt-text="Joan of Arc burning at the stake."
+  caption="Depiction of Joan of Arc burning at the stake. [Britannica](https://www.britannica.com/topic/burning-at-the-stake), open access."
+  text=chile_nm_text
+%}
+
+She felt the heat first. Her skin warmed once they lit the stake on fire. She recognized the crackling of the wood second. It popped in her ears loudly. All around her the fire grew bigger and louder. She tried to hold in her pain and fear. She didn't want to satisfy any of the people watching her. But the fire began to burn her skin. She screamed. She looked down and saw her legs turning black. Her skin was charring right before her eyes. It seemed like she was standing their forever, as her body thrashed in the flames. She fought for relief. After what felt like hours, the pain disappeared. She was finally free of the torture when she took her final breath. 
+
 This is how you will create footnotes on your webpage.[^1]
 
 [^1]: Author, *Title* (Publisher, Year), 00.
