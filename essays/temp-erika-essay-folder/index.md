@@ -55,8 +55,6 @@ He ran up behind her and grabbed a fistful of her hair. She yelped as he pulled 
 "Let's kill her at dawn!" the crowd shouted. They chanted it.
 {% endcapture %}
 
-Over the course of the next hour, they kept her chained up as they set up the large wooden stake. Sylvia watched as they set up her death. The light then reached over the horizon. The sun's glow casted over the town. Henry and another man grabbed Sylvia and dragged her to the stake. She didn't struggle, she just let them take her. She stared at the ground as they tied her to the wooden pole. Henry was giving a speech to the town. Sylvia guessed it was something about eliminating evil from the town but it was muffled in her ears. She quietly waited for her end. 
-
 {% include images/figure-wrap.html
   image-path="images/burning-at-the-stake.png"
   image-position="left"
@@ -65,6 +63,8 @@ Over the course of the next hour, they kept her chained up as they set up the la
   caption="Depiction of Joan of Arc burning at the stake. [Britannica](https://www.britannica.com/topic/burning-at-the-stake), open access."
   text=chile_nm_text
 %}
+
+Over the course of the next hour, they kept her chained up as they set up the large wooden stake. Sylvia watched as they set up her death. The light then reached over the horizon. The sun's glow casted over the town. Henry and another man grabbed Sylvia and dragged her to the stake. She didn't struggle, she just let them take her. She stared at the ground as they tied her to the wooden pole. Henry was giving a speech to the town. Sylvia guessed it was something about eliminating evil from the town but it was muffled in her ears. She quietly waited for her end. 
 
 She felt the heat first. Her skin warmed once they lit the stake on fire. She recognized the crackling of the wood second. It popped in her ears loudly. All around her the fire grew bigger and louder. She tried to hold in her pain and fear. She didn't want to satisfy any of the people watching her. But the fire began to burn her skin. She screamed. She looked down and saw her legs turning black. Her skin was charring right before her eyes. It seemed like she was standing their forever, as her body thrashed in the flames. She fought for relief. After what felt like hours, the pain disappeared. She was finally free of the torture when she took her final breath. 
 
