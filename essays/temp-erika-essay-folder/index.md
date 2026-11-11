@@ -53,9 +53,9 @@ He ran up behind her and grabbed a fistful of her hair. She yelped as he pulled 
 "I caught the witch!" he shouted into the night. He walked her towards the middle of town while shouting it over and over. His call brought everyone back into town. Soon enough, everyone formed a crowd around Henry and Sylvia. Their torches lit up all of them. It burned against their skin.
 
 "Let's kill her at dawn!" the crowd shouted. They chanted it.
+{% endcapture %}
 
 Over the course of the next hour, they kept her chained up as they set up the large wooden stake. Sylvia watched as they set up her death. The light then reached over the horizon. The sun's glow casted over the town. Henry and another man grabbed Sylvia and dragged her to the stake. She didn't struggle, she just let them take her. She stared at the ground as they tied her to the wooden pole. Henry was giving a speech to the town. Sylvia guessed it was something about eliminating evil from the town but it was muffled in her ears. She quietly waited for her end. 
-{% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/burning-at-the-stake.png"
