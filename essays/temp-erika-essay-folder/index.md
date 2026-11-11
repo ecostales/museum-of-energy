@@ -1,10 +1,10 @@
 ---
-title: Wood in Colonial America
+title: The Witch Hunt
 layout: base
 author: Erika Costales
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
-header-title: Nuclear Energy
+header-title: The Witch Hunt
 header-tier: banner
 header-position: center 38%
 thumbnail: images/first-four-bulbs.jpeg
@@ -19,7 +19,7 @@ tags:
   - civilian
 ---
 
-# Wood in Colonial America
+# The Witch Hunt
 
 The town of Salem was most well known for one thing: witches. There were many individuals that were condemned but their names are not remembered. There was one though, that everyone knew about. Sylvia Jones was the most famous witch from Salem. She was the most dangerous out of them all.  
 
