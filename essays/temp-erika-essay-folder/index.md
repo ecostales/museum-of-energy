@@ -21,6 +21,8 @@ tags:
 
 # The Witch Hunt
 
+## The Hunt
+
 The town of Salem was most well known for one thing: witches. There were many individuals that were condemned but their names are not remembered. There was one though, that everyone knew about. Sylvia Jones was the most famous witch from Salem. She was the most dangerous out of them all.  
 
 When the town went on the hunt for Sylvia Jones, they weren't expecting so many things to go wrong. It being night time gave its disadvantages but it seemed like the witch was trying to kill them all. The hunt started off quiet. All that could be heard was the crunch of the grass underneath everyone's feet. The entire town was scattered around with torches and steel weapons. But there was no sight of the witch. It wasn't until a group of three men wandered toward the forest nearby did they spot her. 
@@ -46,6 +48,7 @@ She had done this. She had started this fire. The three men ran away barely esca
 
 She was still in there. She created this to prevent them from chasing her. The wood of the trees were helping her. She was able to control them. 
 
+## The Capture
 
 The town searched for her the entire night. They checked every house in the town and searched the woods the best they could, but no one could find her. She hid in the night within the shadows. They were all scattered searching for her. One man, named Henry, was searching the perimeter around the town. He didn't hold a torch. He wanted to be able to sneak up on the witch. The torch would give away his location. 
 
@@ -71,6 +74,8 @@ He ran up behind her and grabbed a fistful of her hair. She yelped as he pulled 
 Over the course of the next hour, they kept her chained up as they set up the large wooden stake. Sylvia watched as they set up her death. The light then reached over the horizon. The sun's glow casted over the town. Henry and another man grabbed Sylvia and dragged her to the stake. She didn't struggle, she just let them take her. She stared at the ground as they tied her to the wooden pole. Henry was giving a speech to the town. Sylvia guessed it was something about eliminating evil from the town but it was muffled in her ears. She quietly waited for her end. 
 
 She felt the heat first. Her skin warmed once they lit the stake on fire. She recognized the crackling of the wood second. It popped in her ears loudly. All around her the fire grew bigger and louder. She tried to hold in her pain and fear. She didn't want to satisfy any of the people watching her. But the fire began to burn her skin. She screamed. She looked down and saw her legs turning black. Her skin was charring right before her eyes. It seemed like she was standing their forever, as her body thrashed in the flames. She fought for relief. After what felt like hours, the pain disappeared. She was finally free of the torture when she took her final breath. 
+
+## The Aftermath
 
 This is how you will create footnotes on your webpage.[^2]
 
