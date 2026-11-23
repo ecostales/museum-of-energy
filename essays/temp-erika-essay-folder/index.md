@@ -42,8 +42,7 @@ From their account, they said that she was walking around in the woods by hersel
 
 All three of them looked up from the ground to find her gone. She was nowhere to be seen. The only thing in her place was the burning of a tree. The flames ate away and the wooden trunk. They traveled up and extended to each of the trees branches. The crackle of the wood roared in their ears. In horror, they watched as the fire spread to the nearby trees. The wood of the trees caught the flame immediately. Warmth prickled at their skin as the fire grew larger, moving to the next closest tree.[^1]
 
-[^1]: Wood was the major form of fuel during this time period. It was mostly used as a heat and light source. 
-Historic Bethlehem Collections, *Colonial America's Pre-Industrial Age of Wood and Water* (Penn State University, 2009).   
+[^1]: Wood was the major form of fuel during this time period. It was mostly used as a heat and light source. Historic Bethlehem Collections, *Colonial America's Pre-Industrial Age of Wood and Water* (Penn State University, 2009).   
 
 She had done this. She had started this fire. The three men ran away barely escaping the growing flames. The forest became hot as they ran. Sweat was running down their faces. She had set the wood on fire to burn them to death. The three men were able to make it out of the woods before the fire clung to their clothes. They watched as the fire spread across the forest line, stopping them from going back in. 
 
